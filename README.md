@@ -24,4 +24,13 @@ If this repository is helpful to you, welcome to **star** or **fork**.
 	* Using an optimization algorithm (gradient descent)
 2. Gather all three functions above into a main model function, in the right order.
 
+## 【[Demo2](https://github.com/x-jeff/DeepLearning_Code_Demo/tree/master/Demo2)】
+
+### 📌assignment3：Planar data classification with one hidden layer
+
+1. Implement a 2-class classification neural network with a single hidden layer
+2. Use units with a non-linear activation function, such as tanh
+3. Compute the cross entropy loss
+4. Implement forward and backward propagation
+
 # **waiting to update......**
