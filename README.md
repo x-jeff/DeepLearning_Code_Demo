@@ -22,7 +22,7 @@ If this repository is helpful to you, welcome to **star** or **fork**.
 	* Initializing parameters
 	* Calculating the cost function and its gradient
 	* Using an optimization algorithm (gradient descent)
-2. Gather all three functions above into a main model function, in the right order.
+2. Gather all three functions above into a main model function, in the right order
 
 ## 【[Demo2](https://github.com/x-jeff/DeepLearning_Code_Demo/tree/master/Demo2)】
 
@@ -32,5 +32,17 @@ If this repository is helpful to you, welcome to **star** or **fork**.
 2. Use units with a non-linear activation function, such as tanh
 3. Compute the cross entropy loss
 4. Implement forward and backward propagation
+
+## 【[Demo3](https://github.com/x-jeff/DeepLearning_Code_Demo/tree/master/Demo3)】
+
+### 📌assignment4_1：Building your Deep Neural Network: Step by Step
+
+1. Use non-linear units like ReLU to improve your model
+2. Build a deeper neural network (with more than 1 hidden layer)
+3. Implement an easy-to-use neural network class
+
+### 📌assignment4_2：Deep Neural Network for Image Classification: Application
+
+1. Build and apply a deep neural network to supervised learning
 
 # **waiting to update......**
