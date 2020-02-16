@@ -45,4 +45,22 @@ If this repository is helpful to you, welcome to **star** or **fork**.
 
 1. Build and apply a deep neural network to supervised learning
 
+## 【[Demo4](https://github.com/x-jeff/DeepLearning_Code_Demo/tree/master/Demo4)】
+
+### 📌assignment5_1：Initialization
+
+1. Training your neural network requires specifying an initial value of the weights
+2. Choose the initialization for a new neural network
+3. A well chosen initialization can:
+	* Speed up the convergence of gradient descent
+	* Increase the odds of gradient descent converging to a lower training (and generalization) error
+
+### 📌assignment5_2：Regularization
+
+1. Use regularization in your deep learning models
+
+### 📌assignment5_3：Gradient Checking
+
+1. Implement and use gradient checking
+
 # **waiting to update......**
