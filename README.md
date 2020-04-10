@@ -63,4 +63,12 @@ If this repository is helpful to you, welcome to **star** or **fork**.
 
 1. Implement and use gradient checking
 
+## 【[Demo5](https://github.com/x-jeff/DeepLearning_Code_Demo/tree/master/Demo5)】
+
+### 📌assignment6：Optimization Methods
+
+1.  Understand the intuition between Adam and RMS prop
+2. Recognize the importance of mini-batch gradient descent
+3. Learn the effects of momentum on the overall performance of your model
+
 # **waiting to update......**
