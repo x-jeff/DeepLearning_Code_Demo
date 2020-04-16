@@ -1,4 +1,4 @@
-# DeepLearning Code Demo List
+# CONTENTS
 
 This repository is my own coding assignment of Andrew Ng's deep learning courses in Coursera.In addition, I also put the original `.ipynb` files and data in the corresponding folders.
 
