@@ -71,4 +71,15 @@ If this repository is helpful to you, welcome to **star** or **fork**.
 2. Recognize the importance of mini-batch gradient descent
 3. Learn the effects of momentum on the overall performance of your model
 
+## 【[Demo6](https://github.com/x-jeff/DeepLearning_Code_Demo/tree/master/Demo6)】
+
+### 📌assignment7：TensorFlow Tutorial
+
+In this assignment, you will learn to do the following in TensorFlow:
+
+1. Initialize variables
+2. Start your own session
+3. Train algorithms
+4. Implement a Neural Network
+
 # **waiting to update......**
