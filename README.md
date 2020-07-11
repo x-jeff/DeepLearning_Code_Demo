@@ -82,4 +82,23 @@ In this assignment, you will learn to do the following in TensorFlow:
 3. Train algorithms
 4. Implement a Neural Network
 
+## 【[Demo7](https://github.com/x-jeff/DeepLearning_Code_Demo/tree/master/Demo7)】
+
+### 📌assignment1：Convolutional Neural Networks: Step by Step
+
+In this assignment, you will :
+
+1. implement convolutional (CONV) and pooling (POOL) layers in numpy, including both forward propagation and (optionally) backward propagation.
+
+### 📌assignment2：Convolutional Neural Networks: Application
+
+In this assignment, you will :
+
+1. Implement helper functions that you will use when implementing a TensorFlow model.
+2. Implement a fully functioning ConvNet using TensorFlow.
+
+After this assignment you will be able to:
+
+1. Build and train a ConvNet in TensorFlow for a classification problem.
+
 # **waiting to update......**
