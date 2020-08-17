@@ -101,4 +101,20 @@ After this assignment you will be able to:
 
 1. Build and train a ConvNet in TensorFlow for a classification problem.
 
+## 【[Demo8](https://github.com/x-jeff/DeepLearning_Code_Demo/tree/master/Demo8)】
+
+### 📌assignment1：Keras tutorial - the Happy House
+
+In this assignment, you will :
+
+1. Learn to use Keras, a high-level neural networks API (programming framework), written in Python and capable of running on top of several lower-level frameworks including TensorFlow and CNTK.
+2. See how you can in a couple of hours build a deep learning algorithm.
+
+### 📌assignment2：Residual Networks
+
+In this assignment, you will :
+
+1. Implement the basic building blocks of ResNets.
+2. Put together these building blocks to implement and train a state-of-the-art neural network for image classification.
+
 # **waiting to update......**
