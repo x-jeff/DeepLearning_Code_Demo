@@ -117,4 +117,6 @@ In this assignment, you will :
 1. Implement the basic building blocks of ResNets.
 2. Put together these building blocks to implement and train a state-of-the-art neural network for image classification.
 
+>"ResNet50.h5" is too large (>100MB) to push to github.If you need this file, please email me.
+
 # **waiting to update......**
