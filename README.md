@@ -119,4 +119,16 @@ In this assignment, you will :
 
 >"ResNet50.h5" is too large (>100MB) to push to github.If you need this file, please email me.
 
+## 【[Demo9](https://github.com/x-jeff/DeepLearning_Code_Demo/tree/master/Demo9)】
+
+### 📌assignment1：Autonomous driving - Car detection
+
+In this assignment, you will :
+
+1. Learn about object detection using the very powerful YOLO model.
+2. Use object detection on a car detection dataset.
+3. Deal with bounding boxes.
+
+>"yolo.h5" is too large (>100MB) to push to github.If you need this file, please email me.
+
 # **waiting to update......**
