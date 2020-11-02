@@ -131,4 +131,23 @@ In this assignment, you will :
 
 >"yolo.h5" is too large (>100MB) to push to github.If you need this file, please email me.
 
+## 【[Demo10](https://github.com/x-jeff/DeepLearning_Code_Demo/tree/master/Demo10)】
+
+### 📌assignment1：Face Recognition for the Happy House
+
+In this assignment, you will :
+
+1. Implement the triplet loss function.
+2. Use a pretrained model to map face images into 128-dimensional encodings.
+3. Use these encodings to perform face verification and face recognition.
+
+### 📌assignment2：Deep Learning & Art: Neural Style Transfer
+
+In this assignment, you will :
+
+* Implement the neural style transfer algorithm.
+* Generate novel artistic images using your algorithm.
+
+>"imagenet-vgg-verydeep-19.mat" is too large (>100MB) to push to github.If you need this file, please email me.
+
 # **waiting to update......**
