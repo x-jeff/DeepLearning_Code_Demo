@@ -150,4 +150,28 @@ In this assignment, you will :
 
 >"imagenet-vgg-verydeep-19.mat" is too large (>100MB) to push to github.If you need this file, please email me.
 
+## 【[Demo11](https://github.com/x-jeff/DeepLearning_Code_Demo/tree/master/Demo11)】
+
+### 📌assignment1：Building your Recurrent Neural Network - Step by Step
+
+In this assignment, you will :
+
+* Implement your first Recurrent Neural Network in numpy.
+
+### 📌assignment2：Character level language model - Dinosaurus land
+
+In this assignment, you will learn:
+
+* How to store text data for processing using an RNN.
+* How to synthesize data, by sampling predictions at each time step and passing it to the next RNN-cell unit.
+* How to build a character-level text generation recurrent neural network.
+* Why clipping the gradients is important.
+
+### 📌assignment3：Improvise a Jazz Solo with an LSTM Network
+
+In this assignment, you will :
+
+* Apply an LSTM to music generation.
+* Generate your own jazz music with deep learning.
+
 # **waiting to update......**
