@@ -174,4 +174,22 @@ In this assignment, you will :
 * Apply an LSTM to music generation.
 * Generate your own jazz music with deep learning.
 
+## 【[Demo12](https://github.com/x-jeff/DeepLearning_Code_Demo/tree/master/Demo12)】
+
+### 📌assignment1：Operations on word vectors
+
+After this assignment you will be able to:
+
+* Load pre-trained word vectors, and measure similarity using cosine similarity.
+* Use word embeddings to solve word analogy problems such as Man is to Woman as King is to __.
+* Modify word embeddings to reduce their gender bias.
+
+### 📌assignment2：Emojify!
+
+In this assignment, you will :
+
+* Use word vector representations to build an Emojifier.
+
+>"glove.6B.50d.txt" is too large (>100MB) to push to github.If you need this file, please email me.
+
 # **waiting to update......**

@@ -8,3 +8,5 @@
 Demo8/ResNets/ResNet50.h5
 Demo9/Car detection for Autonomous Driving/model_data/yolo.h5
 Demo10/Neural Style Transfer/pretrained-model/imagenet-vgg-verydeep-19.mat
+Demo12/Emojify/data/glove.6B.50d.txt
+Demo12/Word Vector Representation/data/glove.6B.50d.txt
