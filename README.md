@@ -192,4 +192,23 @@ In this assignment, you will :
 
 >"glove.6B.50d.txt" is too large (>100MB) to push to github.If you need this file, please email me.
 
-# **waiting to update......**
+## 【[Demo13](https://github.com/x-jeff/DeepLearning_Code_Demo/tree/master/Demo13)】
+
+### 📌assignment1：Neural Machine Translation
+
+In this assignment, you will :
+
+* Build a Neural Machine Translation (NMT) model to translate human readable dates ("25th of June, 2009") into machine readable dates ("2009-06-25").
+* Use an attention model.
+
+### 📌assignment2：Trigger Word Detection
+
+In this assignment you will learn to：
+
+* Structure a speech recognition project.
+* Synthesize and process audio recordings to create train/dev datasets.
+* Train a trigger word detection model and make predictions.
+
+>"Trigger word detection/XY_train/X.npy" is too large (>100MB) to push to github.If you need this file, please email me.
+>
+>"Trigger word detection/XY_dev/X\_dev.npy" is too large (>100MB) to push to github.If you need this file, please email me.

@@ -10,3 +10,5 @@ Demo9/Car detection for Autonomous Driving/model_data/yolo.h5
 Demo10/Neural Style Transfer/pretrained-model/imagenet-vgg-verydeep-19.mat
 Demo12/Emojify/data/glove.6B.50d.txt
 Demo12/Word Vector Representation/data/glove.6B.50d.txt
+Demo13/Trigger word detection/XY_train/X.npy
+Demo13/Trigger word detection/XY_dev/X_dev.npy
